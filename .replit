@@ -1,0 +1,5 @@
+run = "python main.py"
+entrypoint = "main.py"
+
+[ports]
+8080 = "http"
